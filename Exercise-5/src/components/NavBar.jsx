@@ -27,7 +27,7 @@ export default function NavBar() {
                     <NavLink to="/about">About</NavLink>
                 </li>
                 <li>
-                    <NavLink to="/login">Log In</NavLink>
+                    <NavLink to="/card">Cards</NavLink>
                 </li>
             </ul>{" "}
             {/* ++ Add another page with route and component */}

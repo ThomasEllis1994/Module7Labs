@@ -60,7 +60,6 @@ Whenever user types, new value is stored in state. */}
                 </div>
                 <button onSubmit={handleSubmit}>Log In</button>
                 <h5>{submitResult}</h5>
-                <p>{userEmail}</p>
             </form>
         </div>
     );
